@@ -3,6 +3,6 @@
     "json-server": "^0.16.1"
   },
   "scripts": {
-    "start": "json-server --watch data/db.json"
+    "start": "node ./server.js"
   }
 }
